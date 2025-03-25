@@ -1,2 +1,5 @@
 mountpoints:
    /: https://drive.google.com/drive/folders/1zfi9pKh23vmyzEaLHpxi96Ve0DR8oRqa
+
+folders:
+   /products/: /first-adobe-eds
